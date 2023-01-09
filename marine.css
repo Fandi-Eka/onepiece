@@ -4,6 +4,10 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+@font-face {
+  font-family: fo;
+  src: url(PinkChicken-Regular.ttf);
+}
 nav {
   position: fixed;
   top: 0;
@@ -69,7 +73,7 @@ a:hover {
   text-transform: uppercase;
 }
 .p {
-  height: 4340px;
+  height: 3900px;
   width: 68%;
   background-color: white;
   position: relative;
@@ -93,7 +97,7 @@ a:hover {
 }
 .z1 {
   padding: 30px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .bg {
   height: 400px;
@@ -110,12 +114,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .a2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .b {
   height: 350px;
@@ -128,10 +132,10 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .b2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }

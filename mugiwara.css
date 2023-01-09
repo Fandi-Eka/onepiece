@@ -4,6 +4,10 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+@font-face {
+  font-family: fo;
+  src: url(PinkChicken-Regular.ttf);
+}
 nav {
   position: fixed;
   top: 0;
@@ -69,7 +73,7 @@ a:hover {
   text-transform: uppercase;
 }
 .p {
-  height: 5400px;
+  height: 5100px;
   width: 68%;
   background-color: white;
   position: relative;
@@ -84,7 +88,7 @@ a:hover {
 }
 .a1 {
   padding: 30px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .bg {
   height: 400px;
@@ -101,12 +105,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .b2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .c {
   height: 350px;
@@ -119,12 +123,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .c2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .d {
   height: 350px;
@@ -137,12 +141,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .d2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .e {
   height: 350px;
@@ -155,12 +159,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .e2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .f {
   height: 350px;
@@ -173,12 +177,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .f2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .g {
   height: 350px;
@@ -191,12 +195,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .g2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .h {
   height: 350px;
@@ -209,12 +213,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .h2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .i {
   height: 350px;
@@ -227,12 +231,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .i2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .j {
   height: 350px;
@@ -245,12 +249,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .j2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .k {
   height: 350px;
@@ -263,12 +267,12 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
   padding: 50px 15px 0px 15px;
-  font-family: cursive;
+  font-family: fo;
   text-transform: uppercase;
 }
 .k2 {
   padding: 0px 15px 15px 15px;
-  font-family: cursive;
+  font-family: fo;
 }
 .bg2 {
   height: 400px;
