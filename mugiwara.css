@@ -73,8 +73,8 @@ a:hover {
   text-transform: uppercase;
 }
 .p {
-  height: 5100px;
   width: 68%;
+  margin: auto;
   background-color: white;
   position: relative;
   top: 3cm;
@@ -95,8 +95,8 @@ a:hover {
   width: 100%;
 }
 .b {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -113,8 +113,8 @@ a:hover {
   font-family: fo;
 }
 .c {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -131,8 +131,8 @@ a:hover {
   font-family: fo;
 }
 .d {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -149,8 +149,8 @@ a:hover {
   font-family: fo;
 }
 .e {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -167,8 +167,8 @@ a:hover {
   font-family: fo;
 }
 .f {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -185,8 +185,8 @@ a:hover {
   font-family: fo;
 }
 .g {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -203,8 +203,8 @@ a:hover {
   font-family: fo;
 }
 .h {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -221,8 +221,8 @@ a:hover {
   font-family: fo;
 }
 .i {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -239,8 +239,8 @@ a:hover {
   font-family: fo;
 }
 .j {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -257,8 +257,8 @@ a:hover {
   font-family: fo;
 }
 .k {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;

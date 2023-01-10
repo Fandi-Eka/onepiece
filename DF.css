@@ -73,7 +73,7 @@ a:hover {
   text-transform: uppercase;
 }
 .p {
-  height: 3600px;
+  margin: auto;
   width: 68%;
   background-color: white;
   position: relative;
@@ -113,8 +113,8 @@ dd {
   width: 100%;
 }
 .a {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -131,8 +131,8 @@ dd {
   font-family: fo;
 }
 .b {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -149,8 +149,8 @@ dd {
   font-family: fo;
 }
 .c {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -167,8 +167,8 @@ dd {
   font-family: fo;
 }
 .d {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
@@ -185,8 +185,8 @@ dd {
   font-family: fo;
 }
 .e {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;

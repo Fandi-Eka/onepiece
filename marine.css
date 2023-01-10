@@ -73,7 +73,7 @@ a:hover {
   text-transform: uppercase;
 }
 .p {
-  height: 3900px;
+  margin: auto;
   width: 68%;
   background-color: white;
   position: relative;
@@ -104,8 +104,8 @@ a:hover {
   width: 100%;
 }
 .a {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: right;
   margin: 30px;
   border-radius: 15px;
@@ -122,8 +122,8 @@ a:hover {
   font-family: fo;
 }
 .b {
-  height: 350px;
-  width: 350px;
+  height: 38%;
+  width: 38%;
   float: left;
   margin: 30px;
   border-radius: 15px;
