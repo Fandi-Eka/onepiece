@@ -8,25 +8,6 @@ body {
   font-family: fo;
   src: url(PinkChicken-Regular.ttf);
 }
-nav {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  padding: 0 5%;
-  height: 72px;
-  background-color: rgb(165, 136, 42);
-  border-bottom: 9px solid black;
-}
-.logo {
-  float: left;
-  width: 15%;
-  height: 70%;
-  padding-top: 15px;
-  display: flex;
-  align-items: center;
-}
 .p {
   width: 68%;
   margin: auto;
