@@ -8,76 +8,13 @@ body {
   font-family: fo;
   src: url(PinkChicken-Regular.ttf);
 }
-nav {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  padding: 0 5%;
-  height: 80px;
-  background-color: rgb(165, 136, 42);
-  border-bottom: 10px solid black;
-}
-.logo {
-  float: left;
-  width: 15%;
-  height: 70%;
-  padding-top: 15px;
-  display: flex;
-  align-items: center;
-}
-nav .link {
-  float: right;
-  padding: 0;
-  margin: 0;
-  width: 70%;
-  height: 100%;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-nav .link li {
-  list-style: none;
-}
-.pilih {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-a {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 0.6;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-a:hover {
-  display: block;
-  font-size: 25px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-shadow: 5px 5px 10px black;
-  text-transform: uppercase;
-}
+
 .box {
   background-color: white;
   height: 725px;
   width: 68%;
   position: relative;
-  top: 3cm;
+  top: 1cm;
   border-radius: 25px;
   box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.253);
 }

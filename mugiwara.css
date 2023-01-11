@@ -27,57 +27,12 @@ nav {
   display: flex;
   align-items: center;
 }
-nav .link {
-  float: right;
-  padding: 0;
-  margin: 0;
-  width: 70%;
-  height: 100%;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-nav .link li {
-  list-style: none;
-}
-.pilih {
-  display: block;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-a {
-  display: block;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 0.6;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-a:hover {
-  display: block;
-  font-size: 25px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-shadow: 5px 5px 10px black;
-  text-transform: uppercase;
-}
 .p {
   width: 68%;
   margin: auto;
   background-color: white;
   position: relative;
-  top: 3cm;
+  top: 1cm;
   border-radius: 25px;
   box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.253);
 }
