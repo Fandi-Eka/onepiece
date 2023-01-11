@@ -223,35 +223,3 @@ body {
   text-transform: uppercase;
   margin: 50px;
 }
-.pilih {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-.ya {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 0.6;
-  text-decoration: none;
-  transition: 0.3s;
-  text-transform: uppercase;
-}
-.ya:hover {
-  display: block;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: "Segoe UI";
-  color: white;
-  opacity: 1;
-  text-shadow: 5px 5px 10px black;
-  text-transform: uppercase;
-}
